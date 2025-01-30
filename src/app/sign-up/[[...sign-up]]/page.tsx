@@ -3,7 +3,7 @@ import { SignUp } from "@clerk/nextjs";
 import { dark } from "@clerk/themes";
 import { useTheme } from "next-themes";
 
-export default function page() {
+export default function SignUppage() {
   const { theme } = useTheme();
   return (
     <div className="flex items-center justify-center p-3">
