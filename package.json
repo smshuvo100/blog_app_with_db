@@ -11,6 +11,7 @@
   "dependencies": {
     "@clerk/nextjs": "^5.7.5",
     "@clerk/themes": "^2.2.13",
+    "firebase": "^11.2.0",
     "flowbite-react": "^0.10.2",
     "mongodb": "^6.12.0",
     "mongoose": "^8.9.5",
